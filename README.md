@@ -5,5 +5,4 @@ There is a need to optimize sales strategies, improve online transaction adoptio
 Identifying sales trends, customer preferences, and high-performing categories is essential to making data-driven decisions and maximizing revenue potential.
 
 ### 📂 Dataset
-https://1drv.ms/x/c/6b0eebc2e650057c/EU5vPKKMxrlEq4j2N04DztsBWhwNL_8nxcdjHE_tNRrqBg?e=OpzlKJ
 
