@@ -60,7 +60,10 @@ This dashboard helps supermarket managers and analysts to:
 
 ### 📊 Dashboard Overview
 
+
 ![Financial Analysis Dashborad Overview](https://github.com/user-attachments/assets/b52f9fd0-2003-43bf-83cc-c80ba3039533) 
+
+
 
 
 
@@ -75,6 +78,8 @@ This dashboard helps supermarket managers and analysts to:
 - 📦 **Direct and Online Sales** drive the majority of revenue.
 - 🏆 One product alone contributed **15.2K profit**, ideal for upselling or featured marketing.
 - 📅 Year-wise and month-wise filters help zoom in on seasonal trends and business cycles.
+
+
 
 
 
