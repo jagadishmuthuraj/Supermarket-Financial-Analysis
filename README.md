@@ -70,6 +70,7 @@ This dashboard helps supermarket managers and analysts to:
 
 ### 📊 Dashboard Overview
 
+https://github.com/jagadishmuthuraj/Supermarket-Financial-Analysis/blob/main/Financial%20Analysis%20Dashborad%20Overview.png
 
 
 
