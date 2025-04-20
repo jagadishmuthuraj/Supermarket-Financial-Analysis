@@ -44,16 +44,6 @@ This interactive dashboard, created using Power BI, offers a complete picture of
 - **Line Area Chart: Daily Sales Trend**  
   Visualizes how sales fluctuated over time. Peaks help identify high-demand days or promotional impact.
 
----
-
-### 🔍 Key Insights
-
-- 🛒 **Top Category** reached a selling value of **95K**, indicating a dominant product segment.
-- 💳 **Online payments** dominate, pointing to tech-savvy customers and potential for mobile-based loyalty programs.
-- 📆 **Sales peaks** on certain days show opportunities for time-based promotions.
-- 📦 **Direct and Online Sales** drive the majority of revenue.
-- 🏆 One product alone contributed **15.2K profit**, ideal for upselling or featured marketing.
-- 📅 Year-wise and month-wise filters help zoom in on seasonal trends and business cycles.
 
 ---
 
@@ -71,6 +61,19 @@ This dashboard helps supermarket managers and analysts to:
 ### 📊 Dashboard Overview
 
 ![Financial Analysis Dashborad Overview](https://github.com/user-attachments/assets/b52f9fd0-2003-43bf-83cc-c80ba3039533) 
+
+
+
+
+### 🔍 Key Insights
+
+- 🛒 **Top Category** reached a selling value of **95K**, indicating a dominant product segment.
+- 💳 **Online payments** dominate, pointing to tech-savvy customers and potential for mobile-based loyalty programs.
+- 📆 **Sales peaks** on certain days show opportunities for time-based promotions.
+- 📦 **Direct and Online Sales** drive the majority of revenue.
+- 🏆 One product alone contributed **15.2K profit**, ideal for upselling or featured marketing.
+- 📅 Year-wise and month-wise filters help zoom in on seasonal trends and business cycles.
+
 
 
 ### 🚀 Conclusion
