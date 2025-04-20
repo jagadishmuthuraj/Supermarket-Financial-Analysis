@@ -65,6 +65,8 @@ This dashboard helps supermarket managers and analysts to:
 
 
 
+
+
 ### 🔍 Key Insights
 
 - 🛒 **Top Category** reached a selling value of **95K**, indicating a dominant product segment.
@@ -73,6 +75,8 @@ This dashboard helps supermarket managers and analysts to:
 - 📦 **Direct and Online Sales** drive the majority of revenue.
 - 🏆 One product alone contributed **15.2K profit**, ideal for upselling or featured marketing.
 - 📅 Year-wise and month-wise filters help zoom in on seasonal trends and business cycles.
+
+
 
 
 
